@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "0b6cc5c3-ea87-49da-094b-de1341dafd89",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "9_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

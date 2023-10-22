@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "a9b33e35-a59d-0f6b-dd27-4c13f904cac9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "6_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

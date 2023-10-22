@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "b2768df2-117a-2665-5e47-83074c99a694",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Cards",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

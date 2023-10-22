@@ -1,0 +1,1991 @@
+[
+  {
+    "guid": {
+      "a": "9baa39a1-99dd-68c7-f365-ef9fb4e1cf1c",
+      "b": ""
+    },
+    "objGuid": "Guid(10180214583793075010, 13085474825770890632)",
+    "extraType": "Entity",
+    "name": "Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "131eee15-64bf-4bea-a12e-b1016d0e5d2a",
+      "b": ""
+    },
+    "objGuid": "Guid(14145000689903744101, 6111037265461598351)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "65f69638-39d2-2b35-f4a8-3d011de65497",
+      "b": ""
+    },
+    "objGuid": "Guid(12629985132416961300, 14387677276955654788)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "68400f76-b743-0627-dc63-a110d8373c6d",
+      "b": ""
+    },
+    "objGuid": "Guid(15367742060568528024, 10146237304508457363)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      300,
+      270,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "7bafa503-8f57-b30e-1c54-b9c186d38c51",
+      "b": ""
+    },
+    "objGuid": "Guid(2038139312557020282, 1886311758165782682)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      89.99998474121094,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "8f8f8437-a9a9-74f5-a884-8d54dcd4d0d9",
+      "b": ""
+    },
+    "objGuid": "Guid(18393534764065644695, 16547619468206596491)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "602a125f-adef-400a-1092-0fec2f5a3f83",
+      "b": ""
+    },
+    "objGuid": "Guid(8235238043598186243, 16840308208679013795)",
+    "extraType": "Entity",
+    "name": "General",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "7e7ff2fe-b573-590b-2e33-bede83572126",
+      "b": ""
+    },
+    "objGuid": "Guid(14792803682663561050, 6161520050080348315)",
+    "extraType": "EffectNode",
+    "name": "Effect Node",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5
+  },
+  {
+    "guid": {
+      "a": "cfdd9841-7bb8-5ec0-5b5f-76218cda073c",
+      "b": ""
+    },
+    "objGuid": "Guid(815069582473778930, 3860102513852982437)",
+    "extraType": "Entity",
+    "name": "Directional Light",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "e43bcaa0-69af-26a8-a3f9-b3ba3f4350fb",
+      "b": ""
+    },
+    "objGuid": "Guid(8739102965005804130, 6461487404246441657)",
+    "extraType": "DirectionalLight",
+    "name": "Directional Light",
+    "rttiType": "DirectionalLight",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "shadowAdvanceExpanded": false
+  },
+  {
+    "guid": {
+      "a": "a14e72ef-e5c1-a361-1536-0ba59ac25635",
+      "b": ""
+    },
+    "objGuid": "Guid(11406181728386468509, 5972158861532600762)",
+    "extraType": "Entity",
+    "name": "Environment Light",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "85e20572-1094-4c93-50f3-d4a1940821cc",
+      "b": ""
+    },
+    "objGuid": "Guid(16737500510660696093, 7610174286501797273)",
+    "extraType": "EnvironmentLighting",
+    "name": "Environment Light",
+    "rttiType": "Envmap",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "91124015-6bb3-8301-cdfa-2ca12217b415",
+      "b": ""
+    },
+    "objGuid": "Guid(4636741941698419781, 4953425859224699776)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "f105bf59-b275-94e1-b9e8-b5e4ab19ff23",
+      "b": ""
+    },
+    "objGuid": "Guid(4860016885895493598, 12816438152594867367)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "24451135-f253-8934-9d78-6ef22d730cf3",
+      "b": ""
+    },
+    "objGuid": "Guid(5479756493581953528, 12521066837786398620)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "017c2a74-4876-68f3-3a6f-363019829e85",
+      "b": ""
+    },
+    "objGuid": "Guid(4928446072698712923, 14433089312695431601)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c4dd5f4d-1ae6-e651-bb54-e3ed52937d9b",
+      "b": ""
+    },
+    "objGuid": "Guid(4733117539934142261, 11546826358911752637)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "36aa86c7-6876-12ca-3cdb-8fab964b8aea",
+      "b": ""
+    },
+    "objGuid": "Guid(4810708828634625777, 362134885965769146)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "390ca54f-c182-8dc2-5c3b-7b6f3c19a3e7",
+      "b": ""
+    },
+    "objGuid": "Guid(5495534129623900186, 13855913941914497152)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "47cd0235-e3b2-e0ab-ff72-229946083ca5",
+      "b": ""
+    },
+    "objGuid": "Guid(4678186930857307205, 16226242015111356047)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "7fad3969-6771-277f-bd85-6866d7d99c3b",
+      "b": ""
+    },
+    "objGuid": "Guid(4850007918526485049, 176451293559411638)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "8dfddfc9-dcb5-c4bd-ba36-a83dcfe54d73",
+      "b": ""
+    },
+    "objGuid": "Guid(5439326390163644342, 10886818407094803614)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "579d186b-4766-f7e3-092e-99f5fba73b66",
+      "b": ""
+    },
+    "objGuid": "Guid(5124083635867157005, 7714914295461455757)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "4e04761a-9eef-beb9-2b71-c660a63fad8c",
+      "b": ""
+    },
+    "objGuid": "Guid(4688453450253870290, 11617582069382014892)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c883e231-8506-9c16-27f2-8019813e7bc0",
+      "b": ""
+    },
+    "objGuid": "Guid(5723285884096510338, 8360371879237607603)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "b01c8eef-1693-9f45-2779-f8bdf079cc9c",
+      "b": ""
+    },
+    "objGuid": "Guid(5033802340807876661, 13285442273336482181)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "30976034-a0b7-94d7-2806-d60babfc7b3d",
+      "b": ""
+    },
+    "objGuid": "Guid(4767682913502138404, 13100899316509624976)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "f8583db0-69ee-f44d-d6d2-aa3f5277828f",
+      "b": ""
+    },
+    "objGuid": "Guid(5297563802669085556, 13173007923176137657)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "39b6ad42-c7df-d515-1814-696f57c4ebcd",
+      "b": ""
+    },
+    "objGuid": "Guid(5030133655691666609, 960966445225527731)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "ff8a7f0a-fc1e-db11-a38f-fda3a47696d1",
+      "b": ""
+    },
+    "objGuid": "Guid(5314376249149807328, 781774665820600719)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "80a585e0-c6d3-0681-fe5b-e9827aad29ae",
+      "b": ""
+    },
+    "objGuid": "Guid(5117306673983475120, 18157485715144232840)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "65c75247-7664-254c-df04-c90abeb1a6df",
+      "b": ""
+    },
+    "objGuid": "Guid(5257349197159069418, 2628331862910495651)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "b912ed50-24b1-beb1-0697-e465800dc4be",
+      "b": ""
+    },
+    "objGuid": "Guid(4650273268552604375, 10397505083089589676)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "bc1a4bda-5f60-2a6a-d84b-de6ea1131a3e",
+      "b": ""
+    },
+    "objGuid": "Guid(5153774413052848147, 9863134925336508093)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "e53fecb5-643a-a662-6b1e-e80f7380c988",
+      "b": ""
+    },
+    "objGuid": "Guid(5567561021015711874, 14088140447517513142)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "200cb529-c151-069f-19f8-2c45116a2a3a",
+      "b": ""
+    },
+    "objGuid": "Guid(5104910156214333735, 9884051194504362644)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "8adf0dbc-c581-9153-108a-616d4325a052",
+      "b": ""
+    },
+    "objGuid": "Guid(5164063925352507063, 8498188225169243020)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "787cd7d9-d18c-9d63-26f9-fea1b595d765",
+      "b": ""
+    },
+    "objGuid": "Guid(5195889166890925237, 1206308346209448076)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c9b819d6-7f51-1c94-09a5-8aa42d8e0655",
+      "b": ""
+    },
+    "objGuid": "Guid(5299706408136268564, 14813152053095333511)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2a3a8c14-2134-5bb7-dfbd-f84131b88071",
+      "b": ""
+    },
+    "objGuid": "Guid(5254314755235891978, 17447394614417426816)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "8cc4f216-394c-2484-1c03-4951801af9d6",
+      "b": ""
+    },
+    "objGuid": "Guid(4963888093664264510, 2331752128920203660)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "af0048d8-7e31-912b-c842-50b3d64bfc16",
+      "b": ""
+    },
+    "objGuid": "Guid(5122253226908843548, 14747707617987093405)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c1cd75ef-91a0-cf0b-fe47-5128f6f47e30",
+      "b": ""
+    },
+    "objGuid": "Guid(5181413583637317925, 12443331443023739582)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "260e9b55-d97c-49ec-a282-2409ea0992f7",
+      "b": ""
+    },
+    "objGuid": "Guid(5019184941686005877, 3769233507658409609)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "da97c198-80d5-addf-1d44-a762e7e550c6",
+      "b": ""
+    },
+    "objGuid": "Guid(5284499650150604842, 15099920785407227300)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "d7fd9594-45a1-2c38-98fa-5cd50d94d5bb",
+      "b": ""
+    },
+    "objGuid": "Guid(5539515983204626149, 14795643526206062212)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "bb4124c3-5a97-87f4-1393-34bb22a590e9",
+      "b": ""
+    },
+    "objGuid": "Guid(5178565951659881468, 8614339404620186015)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c2461570-dde2-bd6e-501f-03daec98d999",
+      "b": ""
+    },
+    "objGuid": "Guid(4806324386727441647, 13405024673488308108)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "1a8b0f5c-668c-36ff-378e-a5455f7eaeb6",
+      "b": ""
+    },
+    "objGuid": "Guid(5514916161421999112, 3408560463301527720)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "dc69dd01-64c1-4c73-e224-0b4e1a1cf47a",
+      "b": ""
+    },
+    "objGuid": "Guid(5133119423927231356, 10151219295950834570)",
+    "extraType": "Entity",
+    "name": "2D Foreground Effects",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "573b4aec-515a-728f-9767-55ed1bf7eacd",
+      "b": ""
+    },
+    "objGuid": "Guid(4975583037799432916, 5618269849428086421)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 6
+  },
+  {
+    "guid": {
+      "a": "efc165ae-24b6-e5f4-c31e-14e6b5afa885",
+      "b": ""
+    },
+    "objGuid": "Guid(5726572612413536426, 9897450053480389034)",
+    "extraType": "Entity",
+    "name": "01-RedOrBlack",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "3178a8c9-540f-1bb7-40b0-a835d75c4ac3",
+      "b": ""
+    },
+    "objGuid": "Guid(4626084396194711458, 6491152847228881812)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "09593705-2728-2754-abb8-faa43f57c608",
+      "b": ""
+    },
+    "objGuid": "Guid(5179742989987169807, 1584812363158559919)",
+    "extraType": "Entity",
+    "name": "01-Red",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "ce8406f3-89a4-fb9a-bafe-21d92e869d3a",
+      "b": ""
+    },
+    "objGuid": "Guid(4960075600949043781, 13416680120991225226)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "a30773d2-9908-a40b-9df2-25b45629c900",
+      "b": ""
+    },
+    "objGuid": "Guid(4684481354852107010, 17174029793711019142)",
+    "extraType": "Entity",
+    "name": "01-Black",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "48bb2daf-73ae-be26-0000-b3f966d298c8",
+      "b": ""
+    },
+    "objGuid": "Guid(5325244603061571148, 619747020258062781)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "2645dc2b-9c1f-9476-4a66-ea23615bcb40",
+      "b": ""
+    },
+    "objGuid": "Guid(5538352926314915085, 4449979866710286992)",
+    "extraType": "Entity",
+    "name": "04-Suit",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "adaf9cff-39d3-165f-971c-f4be708ec7d4",
+      "b": ""
+    },
+    "objGuid": "Guid(4859671147703233806, 7302686171300787119)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "52990124-b916-ad53-e396-4411ece53c90",
+      "b": ""
+    },
+    "objGuid": "Guid(5487678203406044145, 16470880706222366143)",
+    "extraType": "Entity",
+    "name": "04-Clubs",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "70c2e48d-433c-2819-f166-3907f7d8aa5d",
+      "b": ""
+    },
+    "objGuid": "Guid(4874044386187956168, 4570241990112347289)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "d320c0c5-3047-4132-a914-42995508f6a2",
+      "b": ""
+    },
+    "objGuid": "Guid(5163480445754964566, 13221798181402300037)",
+    "extraType": "Entity",
+    "name": "04-Diamonds",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "c27c1e3e-7b6f-ee8f-38d7-5ae51efe635a",
+      "b": ""
+    },
+    "objGuid": "Guid(5427436691087270715, 18127880790939978372)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "da4693e1-6970-c4e1-59e8-d8a8dbe73f9e",
+      "b": ""
+    },
+    "objGuid": "Guid(4687607800492634925, 10886936000819958426)",
+    "extraType": "Entity",
+    "name": "02-UpOrDown",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "2f2e6354-43b9-aa06-c64c-9ff33fcb67b4",
+      "b": ""
+    },
+    "objGuid": "Guid(5133616625701326922, 833932958329906869)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "5d1bae08-d7e8-69fd-78ee-26871050cb42",
+      "b": ""
+    },
+    "objGuid": "Guid(4637069193564554931, 1079996876901841029)",
+    "extraType": "Entity",
+    "name": "02-Up",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "d0833377-fe34-1f77-ea19-1007874ac779",
+      "b": ""
+    },
+    "objGuid": "Guid(5265439531265522575, 9745242927822083005)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "704020ad-474e-4a94-5821-11f9e8e7357e",
+      "b": ""
+    },
+    "objGuid": "Guid(5130264280698151080, 13492512693130212519)",
+    "extraType": "Entity",
+    "name": "02-Down",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "04875838-43b2-f887-e4dc-1afe23d2e742",
+      "b": ""
+    },
+    "objGuid": "Guid(5080707806385608253, 16086025238428675730)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "ea38e31d-54ca-2233-a296-7a188b1316ce",
+      "b": ""
+    },
+    "objGuid": "Guid(5054862648356606821, 2573323056460877994)",
+    "extraType": "Entity",
+    "name": "03-InOrOut",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "f0707a2f-c67a-1936-372a-4ede64d4c973",
+      "b": ""
+    },
+    "objGuid": "Guid(4878080027662197107, 22422300748784010)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "34ca7c00-7e16-2b51-3a5f-206cf2acd017",
+      "b": ""
+    },
+    "objGuid": "Guid(5018379239848484123, 17047227326970043293)",
+    "extraType": "Entity",
+    "name": "03-In",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "6cd39163-409a-d79e-b759-beb743d40bf6",
+      "b": ""
+    },
+    "objGuid": "Guid(5463520481018026389, 776516929054162835)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "e2fbf9c8-c2d1-cc53-a9a1-507cf37920a1",
+      "b": ""
+    },
+    "objGuid": "Guid(5724291900720833924, 2064095557647285140)",
+    "extraType": "Entity",
+    "name": "03-Out",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "b72ab129-b946-ff83-1e19-450ceaa5d653",
+      "b": ""
+    },
+    "objGuid": "Guid(4910852025345608665, 1678866565024032902)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "7ff21c53-57ae-4ecb-7ade-b7715079c397",
+      "b": ""
+    },
+    "objGuid": "Guid(4856671171152882016, 2679378583586230434)",
+    "extraType": "Entity",
+    "name": "04-Hearts",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "39446b2c-b66e-5778-ddf6-44880b3f6fcb",
+      "b": ""
+    },
+    "objGuid": "Guid(5651437262429869387, 15023090910855688638)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "0c24f4d0-9bf8-565c-3598-8a4cd40b16aa",
+      "b": ""
+    },
+    "objGuid": "Guid(4704945307311220210, 11939509129540125843)",
+    "extraType": "Entity",
+    "name": "04-Spades",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "a6c6438a-a315-b2cb-36c2-998068af4907",
+      "b": ""
+    },
+    "objGuid": "Guid(5628499990603737345, 4193483519089379217)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "d6519e53-8def-008e-f925-5e63ab07f882",
+      "b": ""
+    },
+    "objGuid": "Guid(4874515646793449692, 17296052519499058331)",
+    "extraType": "Entity",
+    "name": "Prev",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "68eb010e-f8d1-7b49-2641-e6acfde16b0d",
+      "b": ""
+    },
+    "objGuid": "Guid(4746764187656571311, 1231271557156377254)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "194c4f2d-ea22-2ecc-6396-547f92e5e26e",
+      "b": ""
+    },
+    "objGuid": "Guid(5676357194152531111, 6807757643404075691)",
+    "extraType": "Entity",
+    "name": "Curr",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "a1512236-ce3d-e897-0ead-3a7e835e9b36",
+      "b": ""
+    },
+    "objGuid": "Guid(5593794237131703605, 12516545964318033552)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "14c20a63-15ce-ede3-30d1-e51069980787",
+      "b": ""
+    },
+    "objGuid": "Guid(5082685006763895759, 2990774761464286629)",
+    "extraType": "Entity",
+    "name": "Curr.Value",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "0d6a076c-98e3-b523-0027-7e9998754a5b",
+      "b": ""
+    },
+    "objGuid": "Guid(5532471606645705127, 16541431216399100071)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "abacf033-153d-0b10-3473-93cdfe535ee8",
+      "b": ""
+    },
+    "objGuid": "Guid(4719561778632700094, 4242855440742012807)",
+    "extraType": "Entity",
+    "name": "Curr.Color",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "bd1e270f-ae26-c5b9-870d-cd2cec92c489",
+      "b": ""
+    },
+    "objGuid": "Guid(4952532995442724732, 10348893631025752494)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2d711e5a-65fc-17ab-73c4-9f4d9943d839",
+      "b": ""
+    },
+    "objGuid": "Guid(5651250430930721569, 12933319256948328858)",
+    "extraType": "Entity",
+    "name": "Prev.Color",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "38821fd1-815c-b773-34fd-6e647e26c05d",
+      "b": ""
+    },
+    "objGuid": "Guid(4943428784280709338, 11855216967707987122)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "f276da07-9508-75f1-1e62-f7ad849ffbc3",
+      "b": ""
+    },
+    "objGuid": "Guid(5524066194613252412, 15852220267295560620)",
+    "extraType": "Entity",
+    "name": "Prev.Value",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "182e527f-11ca-7f9c-598d-1eefba6e2b0c",
+      "b": ""
+    },
+    "objGuid": "Guid(4663661730119547531, 18215842226053441430)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "a1690d8b-c0bb-efcb-e18f-16c1007ada08",
+      "b": ""
+    },
+    "objGuid": "Guid(5169606188863209414, 16998494877316640667)",
+    "extraType": "Entity",
+    "name": "Curr-Center",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "0ad60e45-be25-1663-48d7-599e144acd0b",
+      "b": ""
+    },
+    "objGuid": "Guid(4770447444140582880, 15050938498617550776)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "0f2cdf55-e285-e7a0-b7b9-e404e7a8d81a",
+      "b": ""
+    },
+    "objGuid": "Guid(5078905858718603837, 14302972744707554692)",
+    "extraType": "Entity",
+    "name": "Curr-Center.Color",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "a42eff6a-4fcc-6c32-ed64-a66313859e3b",
+      "b": ""
+    },
+    "objGuid": "Guid(5557381239326929685, 15508633497193375629)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "68616cdb-5787-9bbf-911e-4ea15288b434",
+      "b": ""
+    },
+    "objGuid": "Guid(5496695761362263960, 2699518880479368626)",
+    "extraType": "Entity",
+    "name": "Curr-Center.Value",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "93762c4f-2598-e1c5-76b2-90c0cd44bc60",
+      "b": ""
+    },
+    "objGuid": "Guid(4940445855721185000, 958114624254863776)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "15a55817-828e-1525-ce6c-6973c42bbb60",
+      "b": ""
+    },
+    "objGuid": "Guid(5281414327836826577, 7230446100489005447)",
+    "extraType": "Entity",
+    "name": "Answer",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "db1b536e-b1ff-5582-7c8e-6ac7f1807f27",
+      "b": ""
+    },
+    "objGuid": "Guid(5503887229360191291, 6686304232289753759)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "1aa1d5c7-826a-72f5-c0af-87440964a2e6",
+      "b": ""
+    },
+    "objGuid": "Guid(5625126875326415552, 4929959942979426701)",
+    "extraType": "Entity",
+    "name": "Retry-Button",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "a4f7f686-4372-55f2-88cb-8d9da4a2269d",
+      "b": ""
+    },
+    "objGuid": "Guid(5272351806888632623, 4152853243309695150)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132"
+  },
+  {
+    "guid": {
+      "a": "611a9f3f-1369-dc88-7d45-13ce50aee049",
+      "b": ""
+    },
+    "objGuid": "Guid(5512620515998176511, 13461577718503927687)",
+    "extraType": "Entity",
+    "name": "Retry",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "124d6081-f2a2-ab3f-7a13-352e71e25997",
+      "b": ""
+    },
+    "objGuid": "Guid(5271361333020634802, 16551394524094153356)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "97032e9f-9a66-611d-eb77-6f9f47e96349",
+      "b": ""
+    },
+    "objGuid": "Guid(5089717311244114667, 9089608607596047528)",
+    "extraType": "Entity",
+    "name": "Prev.Suit",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "840e1841-1c4f-9b41-b15b-61eb01cd590f",
+      "b": ""
+    },
+    "objGuid": "Guid(4987974670053264939, 17627650032084171924)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "77b9f3a8-10f8-9b05-af35-f8f305d47ad0",
+      "b": ""
+    },
+    "objGuid": "Guid(5215852353406688309, 1758925388269441426)",
+    "extraType": "Entity",
+    "name": "Curr.Suit",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "d5e57fe8-df5a-a0c5-f758-794702250203",
+      "b": ""
+    },
+    "objGuid": "Guid(5500492020479366040, 4523258743160293778)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "e4b0332f-e73e-afe7-7abe-d04119d395a7",
+      "b": ""
+    },
+    "objGuid": "Guid(5012454869693101625, 8838295804753227195)",
+    "extraType": "Entity",
+    "name": "Curr-Center.Suit",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "4296e37f-69e2-5d0b-7f4f-4f7903938adf",
+      "b": ""
+    },
+    "objGuid": "Guid(5453357234505107264, 13696962551587286955)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "ee5dc7c9-930e-7797-c128-e24464d294ae",
+      "b": ""
+    },
+    "objGuid": "Guid(5321825078909814404, 6633781136769949343)",
+    "extraType": "Entity",
+    "name": "04-Penalty",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "d9c6be1e-bc6c-237b-977b-5083d0a6f235",
+      "b": ""
+    },
+    "objGuid": "Guid(5415920454829510630, 14631773262285529531)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "462c7366-57d2-59be-ff1d-7ed2dfadac01",
+      "b": ""
+    },
+    "objGuid": "Guid(5074416121200549898, 566280099476611770)",
+    "extraType": "Entity",
+    "name": "03-Penalty",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "facdd424-42b2-7eeb-74d8-fb84a98d99cc",
+      "b": ""
+    },
+    "objGuid": "Guid(5437913380938123704, 10858896878247605678)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "0782274a-93e8-bb13-fe88-c68b7b00f84c",
+      "b": ""
+    },
+    "objGuid": "Guid(4863506757552000867, 1308987088078850182)",
+    "extraType": "Entity",
+    "name": "02-Penalty",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "c92246c8-f03a-43f2-92b2-b75626e90fd2",
+      "b": ""
+    },
+    "objGuid": "Guid(5123515596813506297, 12422557137151837625)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "66b3cef3-357c-84c3-15d7-f5d0eef25c0d",
+      "b": ""
+    },
+    "objGuid": "Guid(5155855458721342480, 14297304633315549588)",
+    "extraType": "Entity",
+    "name": "01-Penalty",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "005ad7e6-0afb-3076-a13b-3df63ec89f10",
+      "b": ""
+    },
+    "objGuid": "Guid(5679422321943738577, 17649408596654688659)",
+    "extraType": "TextJS",
+    "name": "Text",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  }
+]
