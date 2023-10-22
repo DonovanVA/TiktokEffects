@@ -1480,8 +1480,6 @@ msaa:
   value: _4X
 jsScriptSystems:
   - js/GraphSystem.js
-  - js/Main.js
-  - js/JSAssetSystem.js
 enableMultiTouch: false
 enableLightMultiPass: false
 pixelLightCount: 4
