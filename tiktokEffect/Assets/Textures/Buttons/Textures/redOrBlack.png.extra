@@ -1,11 +1,11 @@
 [
   {
     "guid": {
-      "a": "735fa741-dddf-29ed-bbb4-8a2bb5a1d9aa",
+      "a": "07fd65aa-fa79-9242-46ba-3cb808eb61af",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "black",
+    "name": "redOrBlack",
     "expandInPanel": false,
     "objGuid": "",
     "rttiType": "Texture2D",

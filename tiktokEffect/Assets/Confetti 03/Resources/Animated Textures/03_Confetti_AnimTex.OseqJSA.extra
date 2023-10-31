@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "48feeb81-857d-55ac-15d4-ad974aa91ba0",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "03_Confetti_AnimTex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7288975893765308418"
+  }
+]

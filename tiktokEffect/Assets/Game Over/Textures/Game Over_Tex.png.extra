@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "a470eb0a-b641-1416-d9ea-baaa5661121a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Game Over_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7287884115691438081",
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
