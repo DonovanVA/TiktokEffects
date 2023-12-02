@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "0d9f6e55-20ed-a9e3-4bee-0ee9e9a89796",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Buttons",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

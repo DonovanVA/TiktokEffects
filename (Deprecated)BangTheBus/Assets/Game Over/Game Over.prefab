@@ -1,0 +1,53 @@
+%YAML 1.1
+--- !Prefab &1
+name: ""
+guid: {a: 5196126251347378406, b: 14843334873770010250}
+entities:
+  - __class: Entity
+    name: Game Over
+    guid: {a: 4722370386905022067, b: 18125542899454666136}
+    selfvisible: true
+    components:
+      - {localId: 2}
+      - __class: ImageRenderer
+        name: ""
+        guid: {a: 4747434248994650636, b: 15104995544190537113}
+        enabled: true
+        sortingOrder: 0
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        texture: {localId: 1, path: a470eb0a-b641-1416-d9ea-baaa5661121a--a470eb0a-b641-1416-d9ea-baaa5661121a.png}
+        opacity: 1
+        color: {r: 1, g: 1, b: 1, a: 1}
+        size: {x: 10, y: 10}
+        pivot: {x: 0.5, y: 0.5}
+        flipX: false
+        flipY: false
+        stretchMode:
+          __class: ImageStretchMode
+          value: Fit
+        imageMaterialProperties:
+          __class: Map
+    layer: 0
+standaloneResources:
+  __class: Map
+--- !ScreenTransform &2
+name: ""
+guid: {a: 5715863643891835331, b: 14642286611044999346}
+enabled: true
+localPosition: {x: 0, y: -7.381947, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+mobility:
+  __class: Mobility
+  value: Dynamic
+anchoredPosition: {x: 0, y: -236.2223}
+sizeDelta: {x: 562.2499, y: 999.5554}
+pivot: {x: 0.5, y: 0.5}
+anchors: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
+pixelsPerUnit: 32

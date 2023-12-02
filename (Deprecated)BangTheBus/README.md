@@ -1,0 +1,1 @@
+#If you have issues with git: rm .git -force

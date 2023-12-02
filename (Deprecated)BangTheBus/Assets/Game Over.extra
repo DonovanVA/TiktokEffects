@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "36f6f86f-e802-9e2f-7d53-31b212a3f16f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Game Over",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

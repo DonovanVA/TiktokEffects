@@ -1,0 +1,127 @@
+[
+  {
+    "guid": {
+      "a": "871a122d-e083-355b-907a-21d396412de3",
+      "b": ""
+    },
+    "extraType": "ResItemPrefab",
+    "name": "Confetti 03",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Prefab",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "data": [
+      {
+        "guid": {
+          "a": "31a0c660-26d1-8ec3-2bf7-b138fe293df9",
+          "b": ""
+        },
+        "objGuid": "Guid(5490764391267628419, 4316549231357813377)",
+        "extraType": "Entity",
+        "name": "Confetti 03",
+        "rttiType": "Entity",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "type": "none",
+        "createdEffectNodeKey": "effect_node_2D_foreground"
+      },
+      {
+        "guid": {
+          "a": "d1964771-b6eb-6b35-56e9-7140d57789fa",
+          "b": ""
+        },
+        "objGuid": "Guid(5595661006232061097, 6396732095078845885)",
+        "extraType": "Transform",
+        "name": "Transform",
+        "rttiType": "Transform",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "editable": true,
+        "eulerAngle": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "guid": {
+          "a": "7cd4b0a6-26a2-7b50-8eb3-09609c49ad2b",
+          "b": ""
+        },
+        "objGuid": "Guid(5702279572714654804, 4709650263202462602)",
+        "extraType": "ScreenTransform",
+        "name": "ScreenTransform",
+        "rttiType": "ScreenTransform",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "editable": true
+      },
+      {
+        "guid": {
+          "a": "53f57ae9-442d-a5fd-b4f3-9773430fdcc4",
+          "b": ""
+        },
+        "objGuid": "Guid(5675680988580258160, 4925923690448637375)",
+        "extraType": "Camera",
+        "name": "Camera",
+        "rttiType": "Camera",
+        "version": "0.2.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "editable": true
+      },
+      {
+        "guid": {
+          "a": "ebc944d2-b5f9-8039-724e-ecd68088e161",
+          "b": ""
+        },
+        "objGuid": "Guid(4832155761412973097, 9473010855059182211)",
+        "extraType": "Entity",
+        "name": "Confetti_03",
+        "rttiType": "Entity",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "type": "none",
+        "createdEffectNodeKey": "effect_node_2D_foreground"
+      },
+      {
+        "guid": {
+          "a": "45d44db3-f0de-d825-57a7-76a910bcadd1",
+          "b": ""
+        },
+        "objGuid": "Guid(4759159244515894552, 13685734313097377189)",
+        "extraType": "Image",
+        "name": "Image",
+        "rttiType": "ImageRenderer",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "editable": true,
+        "alphaNOPM": true,
+        "blendMode": "Normal",
+        "drawMode": "Normal",
+        "filledType": 0,
+        "startPoint": 0,
+        "filledRange": 1,
+        "ellipseX": 1,
+        "ellipseY": 1,
+        "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+        "texture": "48feeb81-857d-55ac-15d4-ad974aa91ba0"
+      }
+    ],
+    "effectNodeType": 6,
+    "dependencyData": []
+  }
+]
