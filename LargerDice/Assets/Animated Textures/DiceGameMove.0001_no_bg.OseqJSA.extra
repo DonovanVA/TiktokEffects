@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "f574e095-dd62-29a3-5c4e-c9c1081eb1aa",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "DiceGameMove.0001_no_bg",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]
