@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "90268ee6-2919-2098-38a5-b823ef06f4a3",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "king_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4873539136930948312, 15225867773324389301)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "60423521-159c-c396-df83-0f4d854e43e9"
+      }
+    ]
+  }
+]

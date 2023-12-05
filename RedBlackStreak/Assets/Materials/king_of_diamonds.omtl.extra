@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "cd59ae89-7ed0-adc6-584b-75b682fa595a",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "king_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5265118677902548892, 16815366989289218495)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "de160a63-bef9-d3d6-ffb1-35cd917d5644"
+      }
+    ]
+  }
+]

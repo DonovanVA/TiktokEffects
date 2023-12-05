@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "ef13d143-3d71-2537-6c54-663753d23685",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "2_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4861431124105608491, 8150527904929559694)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "6e4d050d-7cd4-96ca-9995-321d347cc7b4"
+      }
+    ]
+  }
+]

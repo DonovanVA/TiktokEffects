@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c90f03f3-10ba-0773-58f0-e1fbf588088e",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "8_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4632062292260327224, 13322676603285009821)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "3f8058eb-458f-541f-7088-fc7e4239a61c"
+      }
+    ]
+  }
+]

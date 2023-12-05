@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "1086b481-e713-1f46-2822-7b59c1128909",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "7_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4766404845541686555, 16709089100952614793)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "f68b27df-0941-3515-caa6-197e9c49ed36"
+      }
+    ]
+  }
+]

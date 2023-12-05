@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "29d0eb8f-f983-3bad-1513-af4c51d34054",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "5_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5321527656706066546, 4999357391036936084)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "64d13661-fa02-40c6-2720-353d90a806ed"
+      }
+    ]
+  }
+]

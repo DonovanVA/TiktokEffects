@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "b56a1fa3-239f-db65-cd0d-22daf3012c6e",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "4_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5343893184082950426, 7764462537925583272)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "2866b1c2-f478-ca3c-c2a5-6d7e4f8c5391"
+      }
+    ]
+  }
+]

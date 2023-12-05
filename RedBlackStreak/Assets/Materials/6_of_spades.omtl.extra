@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c046e103-9a62-38eb-7561-4eb5eb742af2",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "6_of_spades",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5102801605624261790, 12643635305614995376)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "c3daf2f0-9394-e289-e7d4-ff39249a3882"
+      }
+    ]
+  }
+]

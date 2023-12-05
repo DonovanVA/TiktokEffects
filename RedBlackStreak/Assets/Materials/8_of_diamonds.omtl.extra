@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "971576cf-f970-e709-627a-f50318b2369f",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "8_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4928235812337606732, 2177473455787434377)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "9e7ad124-7624-b5b0-265d-5934dbee0aca"
+      }
+    ]
+  }
+]

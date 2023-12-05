@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c46cb8f2-6e1d-e4fd-b2ea-f0c7bdd446d9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "7_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

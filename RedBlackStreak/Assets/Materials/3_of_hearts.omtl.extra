@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "6aeb961b-5f62-7408-6752-ed300941dd70",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "3_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5698589997105164755, 3473484535000698529)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "8e0f5ac2-b720-f63a-d6e3-f451f2728791"
+      }
+    ]
+  }
+]

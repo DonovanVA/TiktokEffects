@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "3db3811c-aaf7-dc14-5b66-1452f0197fc7",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "5_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4871282526361901591, 13695099118183790259)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "1f6bcbd8-3dc1-4efd-125d-8a5f050e3bdb"
+      }
+    ]
+  }
+]

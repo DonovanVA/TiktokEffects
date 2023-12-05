@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "8cefe4d7-8f0c-caa7-95d3-56fc37b85f8d",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "jack_of_spades",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5134713639304948812, 14958654124529373831)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "866b7ad0-ea22-5b5a-4023-6ea2c9356d57"
+      }
+    ]
+  }
+]

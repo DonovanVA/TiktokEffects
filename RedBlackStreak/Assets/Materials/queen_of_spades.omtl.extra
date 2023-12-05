@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "38ce0eb8-8b95-e6bc-6513-591616308243",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "queen_of_spades",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5037115335286222859, 4922146326057950872)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "b1e3a260-1706-6207-9709-47fc74ca5a88"
+      }
+    ]
+  }
+]

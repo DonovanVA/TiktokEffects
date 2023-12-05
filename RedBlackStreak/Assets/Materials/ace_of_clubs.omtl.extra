@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "91c59791-25f9-e0ef-df77-399ec738f74e",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "ace_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5313476700350601049, 6442567945467652757)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "78d6bfe1-89d1-c70d-2914-baab37431dbb"
+      }
+    ]
+  }
+]

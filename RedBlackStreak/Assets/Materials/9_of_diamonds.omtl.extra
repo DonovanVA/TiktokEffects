@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "3f2e87ed-0166-7ac6-b454-a8b1176f7348",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "9_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5324839748611177873, 1673054156477516672)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "de122208-5812-a96b-77fe-1b205337d37a"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "f1697deb-dcbe-25c6-0c9e-5d1c5069824f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "queen_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

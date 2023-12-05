@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "8e0f5ac2-b720-f63a-d6e3-f451f2728791",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "3_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

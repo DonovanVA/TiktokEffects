@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "bcba5e2e-ef55-250b-2c41-66ff163379f8",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "7_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5138366482986109030, 3995654020512004502)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "c46cb8f2-6e1d-e4fd-b2ea-f0c7bdd446d9"
+      }
+    ]
+  }
+]

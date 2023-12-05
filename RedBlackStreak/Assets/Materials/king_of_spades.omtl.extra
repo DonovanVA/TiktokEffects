@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "7ddf4f09-98b4-2de8-72f6-04218e3e8d31",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "king_of_spades",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5411048068576206481, 2515279317969942957)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "80a0d593-9f6d-5129-aaef-d68ebd654496"
+      }
+    ]
+  }
+]

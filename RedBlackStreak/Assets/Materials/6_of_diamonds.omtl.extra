@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "13c9c85e-3f97-5045-086b-44e65da5b541",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "6_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5370886410443048147, 3736403840468925113)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "27507043-a903-5008-d075-1bade9689f47"
+      }
+    ]
+  }
+]

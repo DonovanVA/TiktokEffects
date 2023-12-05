@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "4562d0e6-d06c-74fc-c177-321692c6aaa3",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "3_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5097072756058477858, 15541858517435003777)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "ef43e8f8-c67b-f00a-83b8-653346c5f2df"
+      }
+    ]
+  }
+]

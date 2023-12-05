@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "60d01341-c496-7232-777d-7c1d5af9686d",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "10_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5755439116719025177, 4895173103895369883)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "1d33c4ac-e181-15b5-5718-d97309e2859c"
+      }
+    ]
+  }
+]

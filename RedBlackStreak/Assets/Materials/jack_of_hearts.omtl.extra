@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "1a91d4b9-a439-6d37-a8ea-9cfb291bfabf",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "jack_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5386565877385829096, 4602018048298721198)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "eaf4c695-af87-57e3-38b4-36d7a68ef716"
+      }
+    ]
+  }
+]

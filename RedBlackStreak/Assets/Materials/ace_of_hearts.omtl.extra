@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "4058f1c8-7ff8-70e1-278c-690d902f9543",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "ace_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5364806712146739600, 7000820812040004011)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "f76f84fb-5348-756e-8939-c9a45dc2482d"
+      }
+    ]
+  }
+]

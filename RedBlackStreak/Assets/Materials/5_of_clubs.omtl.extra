@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "fee79f9c-ad2b-544d-9f8d-7f38cf683194",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "5_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5125975369452079932, 15185821285536998332)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "6b8a2208-abdc-c0c6-fa0d-06107b8511ef"
+      }
+    ]
+  }
+]

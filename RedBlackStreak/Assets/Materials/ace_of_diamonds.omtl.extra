@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "03282a99-8f47-2f82-1c15-5ca8c5af297d",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "ace_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5426882721092214873, 5990574651304478607)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "1cf62f7c-7ef0-cf33-bfe5-5f14e256fd12"
+      }
+    ]
+  }
+]

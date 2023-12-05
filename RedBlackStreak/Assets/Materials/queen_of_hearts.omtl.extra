@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "6cb5d8b8-6e27-3174-8c17-40121487d71b",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "queen_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4739460788950834806, 14376707190522094998)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "975989e1-e7e0-7807-1721-beafc49f9e88"
+      }
+    ]
+  }
+]

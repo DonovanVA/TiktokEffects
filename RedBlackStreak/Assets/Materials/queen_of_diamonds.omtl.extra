@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "3ef71b16-850b-4fd9-5073-3b8e94856a51",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "queen_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5206720738654532828, 1427522890608163477)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "3bb2dadc-54ce-d693-465d-3a7ce5400a0f"
+      }
+    ]
+  }
+]

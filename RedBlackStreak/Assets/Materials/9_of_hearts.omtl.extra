@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "77d253a8-0f21-9cdd-4975-33cbd0a90153",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "9_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5455410773923534454, 2369213989881093009)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "82fc14a2-ffef-b12c-6685-a542592e1333"
+      }
+    ]
+  }
+]

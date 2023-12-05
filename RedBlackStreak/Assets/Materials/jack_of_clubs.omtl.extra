@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "443bb1a1-8f5d-21b0-a2b1-22a8fa656a43",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "jack_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5482766812609792854, 3977122560432753083)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "16d164c4-88d4-3147-2d26-7851c3b3da6e"
+      }
+    ]
+  }
+]

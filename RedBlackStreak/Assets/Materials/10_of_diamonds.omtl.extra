@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "9170baee-b21e-95dc-5641-57c4ef75fc71",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "10_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4685413816167933456, 16937660892773073051)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "32d21c1e-1ad3-10f6-0068-eaf0223c7282"
+      }
+    ]
+  }
+]

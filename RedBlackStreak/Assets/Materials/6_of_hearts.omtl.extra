@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c8432f02-d35c-617c-48c0-e3eab1486ab4",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "6_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5443730216527183535, 12675094608589607353)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "d81b6d91-1f4a-f161-d184-dc136fb75f0d"
+      }
+    ]
+  }
+]

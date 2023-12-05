@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c3712047-6918-44d8-8b9c-80282d87152a",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "4_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5281023414328459663, 11884876153054169743)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "4d7d90ef-56ec-04a4-93a0-ffcebf75cc84"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "f0e9297a-151e-d13e-5073-bedcdd0e355e",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "jack_of_diamonds",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4710085805068656212, 14303523970721162382)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "ec08e0dc-a0d7-4828-6622-484f9aa69d4c"
+      }
+    ]
+  }
+]

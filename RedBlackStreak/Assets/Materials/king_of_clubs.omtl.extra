@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c386fe68-c40d-3ad1-2e12-bdbc14a75b53",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "king_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4786807851296460288, 10622903921284008623)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "c024f9d2-70c4-23e7-0835-4fb5051f8e3d"
+      }
+    ]
+  }
+]

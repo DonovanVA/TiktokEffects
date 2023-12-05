@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "50814fda-0c23-5950-8ebc-ca107caa50de",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "2_of_hearts",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5257648982989520609, 17970302723768141244)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "38bb3a93-001d-9910-8594-6d0161e3519e"
+      }
+    ]
+  }
+]

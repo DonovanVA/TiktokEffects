@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "e6e44107-cb87-6811-fd21-aa8d144e3153",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "queen_of_clubs",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4932658066920775577, 18176437766448682164)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "f1697deb-dcbe-25c6-0c9e-5d1c5069824f"
+      }
+    ]
+  }
+]

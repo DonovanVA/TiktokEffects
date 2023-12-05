@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "866b7ad0-ea22-5b5a-4023-6ea2c9356d57",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "jack_of_spades",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
