@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "6806305c-86a1-4346-de1d-cc173a892ce0",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "DiceGameMove.0001_no_bg (1)",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "TextureSequence",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "premultiplyAlpha": false
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7e58dc11-897d-2395-7a83-873335e1b3a2",
+      "b": ""
+    },
+    "extraType": "ResItemVSSubgraph",
+    "name": "SnapToPoint",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": "",
+    "assetPackageID": "7293732841232384002"
+  }
+]

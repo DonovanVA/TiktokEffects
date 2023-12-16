@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "69f58334-458c-ab07-492a-73d682f619a7",
+      "b": ""
+    },
+    "extraType": "ResItemVSSubgraph",
+    "name": "TouchDragAndDrop",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": "",
+    "assetPackageID": "7293732841232482306"
+  }
+]

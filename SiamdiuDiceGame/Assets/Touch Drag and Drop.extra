@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "ec365f3f-8e28-0c1a-9c13-47bd44fa7378",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Touch Drag and Drop",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

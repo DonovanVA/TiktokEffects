@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "514f5dd3-b5ce-f2ab-b82f-e4c66600ad24",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "TAP AND DRAG TO MOVE THE CUP!!",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

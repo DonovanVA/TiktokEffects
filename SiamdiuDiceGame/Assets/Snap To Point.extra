@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "96a36842-2c70-33fa-a642-b5972f3ae77f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Snap To Point",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

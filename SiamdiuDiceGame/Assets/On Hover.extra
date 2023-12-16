@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "87455676-ab11-772f-a524-d7c88c405d2c",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "On Hover",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
